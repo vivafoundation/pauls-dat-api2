@@ -1,5 +1,5 @@
 {
-  "name": "pauls-dat-api2",
+  "name": "pauls-dat-api",
   "version": "1.0.0",
   "description": "Beaker's DatArchive implementation for Dat 2.0",
   "main": "index.js",
